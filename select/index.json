@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Wicked Games",
+  "base_artist": "Kiana Ledé",
+  "createdAt": "2026-02-27T15:03:07.533847Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wicked Games",
+      "artist": "RAIGN",
+      "has_synced": true,
+      "path": "select/01_Wicked_Games_RAIGN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wicked Games",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/02_Wicked_Games_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wicked Games",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/03_Wicked_Games_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wicked Games",
+      "artist": "Tangerine Dream",
+      "has_synced": true,
+      "path": "select/04_Wicked_Games_Tangerine_Dream.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wicked Games (feat. Anna Naklab) - Radio Edit",
+      "artist": "Parra for Cuva feat. Anna Naklab",
+      "has_synced": true,
+      "path": "select/05_Wicked_Games_(feat._Anna_Naklab)_-_Radio_Edit_Parra_for_Cuva_feat._Anna_Naklab.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wicked Games (feat. Anna Naklab) - Radio Edit",
+      "artist": "Parra for Cuva/Anna Naklab",
+      "has_synced": true,
+      "path": "select/06_Wicked_Games_(feat._Anna_Naklab)_-_Radio_Edit_Parra_for_Cuva_Anna_Naklab.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wicked Games",
+      "artist": "Parra for Cuva feat. Anna Naklab",
+      "has_synced": true,
+      "path": "select/07_Wicked_Games_Parra_for_Cuva_feat._Anna_Naklab.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wicked Games",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/08_Wicked_Games_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wicked Games",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/09_Wicked_Games_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wicked Games",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/10_Wicked_Games_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wicked Games (Radio Edit)",
+      "artist": "Parra for Cuva ft. Anna Naklab",
+      "has_synced": true,
+      "path": "select/11_Wicked_Games_(Radio_Edit)_Parra_for_Cuva_ft._Anna_Naklab.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wicked Games (Feat. Anna Naklab)",
+      "artist": "Parra For Cuva;Anna Naklab",
+      "has_synced": true,
+      "path": "select/12_Wicked_Games_(Feat._Anna_Naklab)_Parra_For_Cuva;Anna_Naklab.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wicked Games (feat. Anna Naklab) (Radio Edit)",
+      "artist": "Parra For Cuva, Anna Naklab",
+      "has_synced": true,
+      "path": "select/13_Wicked_Games_(feat._Anna_Naklab)_(Radio_Edit)_Parra_For_Cuva,_Anna_Naklab.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wicked Games (Feat. Anna Naklab)",
+      "artist": "Parra For Cuva",
+      "has_synced": true,
+      "path": "select/14_Wicked_Games_(Feat._Anna_Naklab)_Parra_For_Cuva.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wicked Games",
+      "artist": "Parra for Cuva ft Anna Naklab",
+      "has_synced": true,
+      "path": "select/15_Wicked_Games_Parra_for_Cuva_ft_Anna_Naklab.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wicked Games",
+      "artist": "Parra for Cuva ft Anna Naklab",
+      "has_synced": true,
+      "path": "select/16_Wicked_Games_Parra_for_Cuva_ft_Anna_Naklab.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wicked Games",
+      "artist": "Kiana Ledé",
+      "has_synced": false,
+      "path": "select/pl_01_Wicked_Games_Kiana_Ledé.txt"
+    }
+  ]
+}
